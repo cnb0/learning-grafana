@@ -1,5 +1,5 @@
 
-
+[Grafan notes](https://sbcode.net/grafana/introduction/)
 
 - Install, set up, and configure Grafana for real-time data analysis and visualization
 - Visualize and monitor data using data sources such as InfluxDB, Prometheus, and Elasticsearch
